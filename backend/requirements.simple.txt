@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+opencv-python
+mediapipe
+librosa
+transformers
+torch
+numpy
+pandas
+scikit-learn
+websockets
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
+python-dotenv
+reportlab
